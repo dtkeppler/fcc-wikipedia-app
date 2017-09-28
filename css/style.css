@@ -1,0 +1,45 @@
+/* font-family: 'EB Garamond', serif;
+font-family: 'Open Sans', sans-serif; */
+
+.background {
+  padding-top: 5%;
+  width: 100%; 
+  height: 100%;
+}
+
+#title {
+  font-family: 'EB Garamond', serif;
+}
+
+.form-field,
+.results {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#bookend {
+  font-size: 1.3em;
+}
+
+.container,
+#search-term {
+  text-align: center;
+}
+
+#random,
+#search,
+#clear,
+#search-term {
+  margin: 15px 5px;
+  border-radius: 5%;
+}
+
+#random,
+#search,
+#clear {
+  font-size: 0.9em;
+  border-radius: 5%;
+}
+
+.results {
+  margin: 2% auto;
+}
